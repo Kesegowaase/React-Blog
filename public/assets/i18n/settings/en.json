@@ -1,0 +1,20 @@
+{
+    "Email is invalid": "Email is invalid",
+    "Required": "Required",
+    "At least one numeric digit required": "At least one numeric digit required",
+    "At least one special character required": "At least one special character required",
+    "Password must be less than 15 characters": "Password must be less than 15 characters",
+    "Password must be more than 7 characters": "Password must be more than 7 characters",
+    "It is not valid URL": "It is not valid URL",
+    "Username must be less than 16 characters": "Username must be less than 16 characters",
+    "Username must be more than 8 characters": "Username must be more than 8 characters",
+    "Bio must be more than 50 characters": "Bio must be more than 50 characters",
+    "URL of profile picture": "URL of profile picture",
+    "Username": "Username",
+    "Short bio about you": "Short bio about you",
+    "Email": "Email",
+    "New Password": "New Password",
+    "Update Settings": "Update Settings",
+    "Or click here to logout": "Or click here to logout",
+    "Your Settings": "Your Settings"
+}

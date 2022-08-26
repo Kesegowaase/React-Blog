@@ -1,0 +1,13 @@
+{
+    "Email is invalid": "Email is invalid",
+    "Required": "Required",
+    "At least one numeric digit required": "At least one numeric digit required",
+    "At least one special character required": "At least one special character required",
+    "Password must be less than 15 characters": "Password must be less than 15",
+    "Password must be more than 7 characters": "Password must be more than 7 characters",
+    "Email": "Email",
+    "Password": "Password",
+    "Sign in": "Sign in",
+    "Need an account ?": "Need an account ?",
+    "Is invalid!": "Is invalid!"
+}

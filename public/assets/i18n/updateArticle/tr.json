@@ -1,0 +1,13 @@
+{
+    "Required": "Zorunlu Alan",
+    "Title must be more than 8 characters": "Başlık 8 karakterden fazla olmalı",
+    "Description must be more than 8 characters": "Açıklama 8 karakterden fazla olmalı",
+    "Article text must be more than 50 characters": "Makale içeriği 50 karakterden fazla olmalı",
+    "Article Title": "Makale Başlığı",
+    "Description": "Açıklama",
+    "Write your article (in markdown)": "Makalenizi yazınız (markdown olarak)",
+    "Tag": "Etiket",
+    "Add a tag": "Etiketi ekleyin",
+    "Remove a tag": "Etiketi kaldırın",
+    "Publish Article": "Makaleyi Yayınla"
+}

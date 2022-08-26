@@ -1,0 +1,17 @@
+{
+    "Sign up": "Sign up",
+    "Email has been already used!": "Email has been already used!",
+    "Username has been already used!": "Username has been already used!",
+    "Have an account ?": "Have an account ?",
+    "Username must be less than 16 characters": "Username must be less than 16 characters",
+    "Username must be more than 8 characters": "Username must be more than 8 characters",
+    "Required": "Required",
+    "Email is invalid": "Email is invalid",
+    "At least one numeric digit required": "At least one numeric digit required",
+    "At least one special character required": "At least one special character required",
+    "Password must be less than 15 characters": "Password must be less than 15 characters",
+    "Password must be more than 7 characters": "Password must be more than 7 characters",
+    "Username": "Username",
+    "Email": "Email",
+    "Password": "Password"
+}

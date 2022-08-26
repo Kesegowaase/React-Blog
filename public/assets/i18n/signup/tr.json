@@ -1,0 +1,17 @@
+{
+    "Sign up": "Kayıt ol",
+    "Email has been already used!": "Bu e-posta kayıtlı zaten!",
+    "Username has been already used!": "Bu username kayıtlı zaten!",
+    "Have an account ?": "Hesabınız var mı ?",
+    "Username must be less than 16 characters": "Kullanıcı adı 16 karakterden küçük olmalı",
+    "Username must be more than 8 characters": "Kullanıcı adı 8 karakterden fazla olmalı",
+    "Required": "Zorunlu Alan",
+    "Email is invalid": "Geçersiz e-posta",
+    "At least one numeric digit required": "En az bir rakam içermeli",
+    "At least one special character required": "En az bir özel karakter içermeli",
+    "Password must be less than 15 characters": "Parola 15 karakterden küçük olmalı",
+    "Password must be more than 7 characters": "Parola 7 karakterden büyük olmalı",
+    "Username": "Kullanı adı",
+    "Email": "E-posta",
+    "Password": "Parola"
+}

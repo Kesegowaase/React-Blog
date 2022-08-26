@@ -1,0 +1,13 @@
+{
+    "Required": "Required",
+    "Title must be more than 8 characters": "Title must be more than 8 characters",
+    "Description must be more than 8 characters": "Description must be more than 8 characters",
+    "Article text must be more than 50 characters": "Article text must be more than 50 characters",
+    "Article Title": "Article Title",
+    "Description": "Description",
+    "Write your article (in markdown)": "Write your article (in markdown)",
+    "Tag": "Tag",
+    "Add a tag": "Add a tag",
+    "Remove a tag": "Remove a tag",
+    "Publish Article": "Publish Article"
+}

@@ -1,0 +1,20 @@
+{
+    "Email is invalid": "Geçersiz e-posta",
+    "Required": "Zorunlu Alan",
+    "At least one numeric digit required": "En az bir rakam içermeli",
+    "At least one special character required": "En az bir özel karakter içermeli",
+    "Password must be less than 15 characters": "Parola 15 karakterden küçük olmalı",
+    "Password must be more than 7 characters": "Parola 7 karakterden büyük olmalı",
+    "It is not valid URL": "Geçersiz URL",
+    "Username must be less than 16 characters": "Kullanıcı adı 16 karakterden küçük olmalı",
+    "Username must be more than 8 characters": "Kullanıcı adı 8 karakterden fazla olmalı",
+    "Bio must be more than 50 characters": "Bio 50 karakterden fazla olmalı",
+    "URL of profile picture": "Profil resmi adresi",
+    "Username": "Kullanıcı adı",
+    "Short bio about you": "Kısa bir bio giriniz",
+    "Email": "E-posta",
+    "New Password": "Yeni Parola",
+    "Update Settings": "Ayarları Kaydet",
+    "Or click here to logout": "Ya da çıkış yapın",
+    "Your Settings": "Ayarlar"
+}

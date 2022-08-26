@@ -1,0 +1,13 @@
+{
+    "Email is invalid": "Geçersiz e-posta",
+    "Required": "Zorunlu Alan",
+    "At least one numeric digit required": "En az bir rakam içermeli",
+    "At least one special character required": "En az bir özel karakter içermeli",
+    "Password must be less than 15 characters": "Parola 15 karakterden küçük olmalı",
+    "Password must be more than 7 characters": "Parola 7 karakterden büyük olmalı",
+    "Email": "E-posta",
+    "Password": "Parola",
+    "Sign in": "Giriş Yap",
+    "Need an account ?": "Hesabın yok mu ?",
+    "Is invalid!": "Geçersiz bilgiler"
+}
